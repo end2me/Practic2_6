@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Minus2</string>
+    <string name="welcome_text">Вычислите из числа два числа!\nПриложение для вычитания</string>
+    <string name="enter_button">Нажми для вычисления</string>
+    <string name="creator_text">Разработал Зверев Павел, группа РИБО–01–22, вариант 3</string>
+    <string name="title_activity_three_nums_calc">ThreeNumsCalc</string>
+    <string name="minuend"><font size='14'>Уменьшаемое</font></string>
+    <string name="subtrahend_1"><font size='14'>Вычитаемое 1</font></string>
+    <string name="subtrahend_2"><font size='14'>Вычитаемое 2</font></string>
+    <string name="start_text">Давайте вычитать!</string>
+    <string name="btnCalc">Вычесть</string>
+</resources>
